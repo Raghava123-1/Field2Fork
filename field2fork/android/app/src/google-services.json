@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602479244057",
+    "project_id": "field2fork-613d7",
+    "storage_bucket": "field2fork-613d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602479244057:android:14da7233f85a5a1f1c8b88",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRn_8ygnaxelWBSfolQ7_6sBArXXEQjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
